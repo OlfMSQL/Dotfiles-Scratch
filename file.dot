@@ -1,0 +1,9 @@
+init_check(){
+  # Check if its a first time 
+  if [[ -z ${DOT_REPO} && -z ${DOT_DEST} ]]; then
+    #show first setup
+     # init setup
+     else 
+        #repo check
+        fi 
+      }
